@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cuckoo (1.3.0):
+    - Cuckoo/Swift (= 1.3.0)
+  - Cuckoo/Swift (1.3.0)
+  - Kingfisher (5.10.1):
+    - Kingfisher/Core (= 5.10.1)
+  - Kingfisher/Core (5.10.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Cuckoo
+  - Kingfisher (~> 5.10.1)
+  - SVProgressHUD (~> 2.2.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cuckoo
+    - Kingfisher
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cuckoo: 4045c5a8ce378c919c20c5ff3d6dd11ded0ec699
+  Kingfisher: eb36b7dfcc78d60877051c92c119a2865972961a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 46b8bded211424727df3fa2759c25b5e390fa693
+
+COCOAPODS: 1.8.4
